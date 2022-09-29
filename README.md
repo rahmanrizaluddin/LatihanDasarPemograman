@@ -1,2 +1,2 @@
 # LatihanDasarPemograman
-# RahmanRizaluddin,20220040295,TeknikInformatika
+# Rahman Rizaluddin,kelas TI 22 H, 20220040295,Teknik Informatika
